@@ -1,1 +1,1 @@
-`# This repo contains all the code to my portfolio 
+## This repo contains all the code to my portfolio 
